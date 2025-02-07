@@ -1,0 +1,37 @@
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    justify-content: center;
+    font-family: "Arial";
+    background: #FFBBC1;
+    color: #FFDEE3;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.yesButton {
+    font-size: 24px;
+    background-color: #FF8896;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    border: 0;
+    cursor: pointer;
+}
+
+.noButton {
+    position: absolute;
+    font-size: 24px;
+    background-color: #FF3333;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;    
+    margin: 10px;
+    border: 0;
+    cursor: pointer;
+}
