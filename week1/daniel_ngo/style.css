@@ -5,6 +5,11 @@
 body {
     text-align: center;
     font-family:'Roboto';
+    font-size: larger;
     /* background: azure; */
-    color: cornflowerblue;
+    color: darkslateblue;
+}
+
+a:link {
+    color: green;
 }
