@@ -1,0 +1,14 @@
+img {
+    width: 100px;
+}
+
+body {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: Chartreuse;
+}
+
+#cats {
+    font-weight: bold;
+    color: blue;
+}
